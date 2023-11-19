@@ -33,5 +33,5 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/Ribeirohc/Ribeirohc/blob/output/github-contribution-grid-snake.svg)
+
 
