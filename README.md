@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente trabalho como Analista de Suporte
-- 🌱 Atualmente estou cursando Analise e desenvolvimento de sistemas
+- 🌱 Estou cursando Analise e desenvolvimento de sistemas
 - 📫 Como entrar em contato comigo: www.linkedin.com/in/ronaldo-ribeiro-1a03671a0
 
 <div align="center">
